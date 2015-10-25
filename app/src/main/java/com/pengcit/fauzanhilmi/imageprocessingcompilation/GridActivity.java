@@ -18,8 +18,7 @@ import android.widget.TextView;
 
 import java.util.ArrayList;
 
-import com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid.NumberDetector.*;
-import com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid.PlatNomorDetector.*;
+import com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid_KodeBelok.PlatNomorDetector.*;
 
 public class GridActivity extends ActionBarActivity {
     Button UButton;

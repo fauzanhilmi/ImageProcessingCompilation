@@ -1,4 +1,4 @@
-package com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid.PlatNomorDetector;
+package com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid_KodeBelok.PlatNomorDetector;
 
 /**
  * Created by Fauzan Hilmi on 30/09/2015.

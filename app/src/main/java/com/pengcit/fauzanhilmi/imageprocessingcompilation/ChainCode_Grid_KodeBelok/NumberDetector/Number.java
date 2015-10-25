@@ -1,4 +1,4 @@
-package com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid.NumberDetector;
+package com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid_KodeBelok.NumberDetector;
 
 import java.util.ArrayList;
 //import static javanumberdetector.NumberDatabase.DUA;

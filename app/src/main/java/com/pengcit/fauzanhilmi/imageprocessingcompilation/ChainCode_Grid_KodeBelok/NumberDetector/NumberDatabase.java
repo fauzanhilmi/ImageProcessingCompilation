@@ -1,4 +1,4 @@
-package com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid.NumberDetector;
+package com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid_KodeBelok.NumberDetector;
 
 /**
  * Created by Fauzan Hilmi on 20/09/2015.

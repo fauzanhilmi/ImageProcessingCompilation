@@ -1,4 +1,4 @@
-package com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid.NumberDetector;
+package com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid_KodeBelok.NumberDetector;
 
 import android.graphics.Bitmap;
 import android.util.Log;

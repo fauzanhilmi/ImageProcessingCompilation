@@ -1,4 +1,4 @@
-package com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid.PlatNomorDetector;
+package com.pengcit.fauzanhilmi.imageprocessingcompilation.ChainCode_Grid_KodeBelok.PlatNomorDetector;
 
 import android.graphics.Bitmap;
 import android.graphics.BitmapFactory;
