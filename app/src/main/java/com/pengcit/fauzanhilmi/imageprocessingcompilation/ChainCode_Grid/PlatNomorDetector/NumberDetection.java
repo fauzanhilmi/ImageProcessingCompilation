@@ -19,7 +19,7 @@ public class NumberDetection {
 
     static final int AVG_GEO_REC_SIZE = 10;
 
-    private PixelTracer pxTracer;
+    public PixelTracer pxTracer;
     private Binarizer binarizer;
     private DatabaseLoader dataLoader;
     private ArrayList<MapData> data;
@@ -131,7 +131,7 @@ public class NumberDetection {
         avgGeoRecSize = size;
     }
 
-    public void identifyImage(int [][] image) {
+    public void identifyImage() {
         result = new ArrayList<>();
         processImage(image);
         for (PixelTracer.Area area : pxTracer.areas) {

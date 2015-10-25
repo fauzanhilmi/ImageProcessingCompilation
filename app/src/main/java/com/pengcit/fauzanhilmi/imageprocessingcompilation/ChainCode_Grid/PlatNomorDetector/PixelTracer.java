@@ -23,7 +23,7 @@ public class PixelTracer {
     int currDir;
     int bgColor;
     Position currPos, startPos;
-    ArrayList<Area> areas;
+    public ArrayList<Area> areas;
     ArrayList<int[][]> gridImages;
 
     public PixelTracer() {
